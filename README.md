@@ -1,3 +1,3 @@
-# string-parse-in-c
+# c-snippets
 
-string parsing in C
+c-snippets
